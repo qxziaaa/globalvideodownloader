@@ -15,4 +15,5 @@ Make sure Python 3.12+ is installed.
 
 2. **Install dependencies**  
 Open a terminal in the folder and run:
+```bash
 pip install yt-dlp
